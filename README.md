@@ -14,7 +14,10 @@ Polyglot programmer, and neverending student in the continuous search of excelle
 class NeoVasili(Human):
   def __init__(self) -> None:
     self.full_name = "Juan Manuel Ruiz Fernández"
-    self.description = "Born to code. Cloud Engineer. IaC. Serverless developer. AWS necromancer. Feel the metal inside you 🤘🤘🤘"
+    self.description = """
+      Born to code. Cloud Engineer. IaC. Serverless developer. AWS necromancer
+      Feel the metal inside you 🤘🤘🤘
+    """
     self.job_role = "Cloud Engineer"
     self.music = ["metal", "rock"]
     self.sports = ["mountain bike", "tennis", "f1"]
