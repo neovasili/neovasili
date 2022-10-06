@@ -89,3 +89,13 @@ class NeoVasili(Human):
     ]
     self.tags = ["aws", "cloud", "serverless", "iac", "architecture"]
 ```
+
+## 🔉 Talks
+
+Sometimes I speak at conferences and meetups.
+
+- (EDD 2022) [Modern Infrastructure as Code](https://extremaduradigitalday.com/ponente/juan-manuel-ruiz-fernandez/) ([video](https://www.youtube.com/watch?v=SGXoqiVTG_o) - spanish)
+- (s|ngular Hub Madrid 2019) [101 - Serverless framework](https://twitter.com/sngular/status/1194671450793357313)
+- (EDD 2019) [101 - Serverless framework](https://2019.extremaduradigitalday.com/ponente/juan-manuel-ruiz-fernandezsngular/)
+- (EDD 2018) [Lambda, S3, DynamoDB. Welcome to the AWS serverless world](https://2018.extremaduradigitalday.com/ponentes/juan-manuel-ruiz-fernandez/) ([video](https://youtu.be/VO2_3wuaNBk?t=7110) - spanish)
+- (Caceres DevOps 2018) [Serverless & devops with AWS. Theory of everything](https://www.meetup.com/es/caceres-devops/events/254786282/)
