@@ -83,7 +83,8 @@ class NeoVasili(Human):
 Sometimes I speak at conferences and meetups.
 
 - (CDK Day 2023) [Inter-stack dependencies strategies in CDK](https://www.cdkday.com/#inter-stack-dependencies-strategies-in-cdk) ([slides](https://files.juanmanuelruizfernandez.com/speechs/inter-stacks-dependencies-strategies.pdf), [repo](https://github.com/neovasili/cdk-day-2023-stacks-dependencies), [blog post](https://dev.to/aws-espanol/estrategias-para-manejar-dependencias-entre-stacks-en-cdk-3bjj) - spanish, [video](https://www.youtube.com/watch?v=ZAQC-cOXL4M&t=7730s) - spanish)
-- (EDD 2022) [Modern Infrastructure as Code](https://extremaduradigitalday.com/ponente/juan-manuel-ruiz-fernandez/) ([video](https://www.youtube.com/watch?v=SGXoqiVTG_o) - spanish)
+- (CaceresTech 2023) [101 Rust](https://www.meetup.com/es-ES/cacerestech/events/292010650/) ([slides](https://files.juanmanuelruizfernandez.com/speechs/101-rust.pdf), [repo](https://github.com/neovasili/101-rust))
+- (EDD 2022) [Modern Infrastructure as Code](https://extremaduradigitalday.com/ponente/juan-manuel-ruiz-fernandez/) ([slides](https://files.juanmanuelruizfernandez.com/speechs/modern-infrastructure-as-code.pdf), [video](https://www.youtube.com/watch?v=SGXoqiVTG_o) - spanish)
 - (s|ngular Hub Madrid 2019) [101 - Serverless framework](https://twitter.com/sngular/status/1194671450793357313)
 - (EDD 2019) [101 - Serverless framework](https://2019.extremaduradigitalday.com/ponente/juan-manuel-ruiz-fernandezsngular/)
 - (EDD 2018) [Lambda, S3, DynamoDB. Welcome to the AWS serverless world](https://2018.extremaduradigitalday.com/ponentes/juan-manuel-ruiz-fernandez/) ([video](https://youtu.be/VO2_3wuaNBk?t=7110) - spanish)
