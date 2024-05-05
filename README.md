@@ -2,7 +2,7 @@
 
 <img align="right" width="250" height="250" style="padding: 2rem;" src="assets/img/my-octocat.png?raw=true">
 
-I am Juan Manuel Ruiz Fernández, a.k.a. *neovasili*, born in Malaga and based in the amazing city of Cáceres, now working as a Software Development Engineer but I've played several roles around the cloud engineering, web development, DevOps, infrastructure, serverless and AWS ☁️.
+I am Juan Manuel Ruiz Fernández, a.k.a. *neovasili*, born in Malaga and based in the amazing city of Cáceres, now working as a Software and Cloud Engineer but I've played several roles around the cloud engineering, web development, DevOps, infrastructure, serverless and AWS ☁️.
 
 Polyglot programmer, and neverending student in the continuous search of excellence on delivering value. Always trying to help people to go together, share success and learn from mistakes. Smart humor and enjoyment with my job is a must. Very proactive, hungry for new knowledge and always trying to get the best of myself.
 
@@ -21,7 +21,7 @@ class NeoVasili(Human):
     self.website = "https://linktr.ee/neovasili"
     self.job_role = "Cloud Engineer"
     self.music = ["metal", "rock"]
-    self.sports = ["mountain bike", "tennis", "f1"]
+    self.sports = ["mountain bike", "crossfit", "scuba diving", "tennis", "f1"]
     self.hobbies = ["lego", "videogames", "travel"]
     self.languages = ["spanish", "english"]
     self.skills = {
@@ -47,7 +47,7 @@ class NeoVasili(Human):
               "Route53", "CloudFront", "CodeBuild", "Lambda", "Step functions", "API Gateway", "DynamoDB",
               "SSM", "Secrets manager", "KMS",
               "EC2", "RDS", "VPC", "ECS / ECR / EKS",
-              "SQS",
+              "SQS", "EventBridge", "SNS",
             ],
             other=["AWS cli", "boto3"],
           ),
