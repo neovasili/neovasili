@@ -54,12 +54,17 @@ class NeoVasili(Human):
           TechCloudSkillSet(
             name="Azure",
             most_used_services=[
-              "Azure Active Directory",
+              "Azure Blob Storage",
+              "Azure Kubernetes Service",
+              "Azure Container Apps",
+              "Azure Functions",
+              "Azure Entra ID",
               "Azure DevOps",
             ],
+            other=["Azure cli"],
           ),
         ],
-        general_tooling=["git", "shell scripting"],
+        general_tooling=["git", "shell scripting", "github", "github actions"],
         most_used_languages=[
           InterpretedProgrammingLanguage(name="python"),
           InterpretedProgrammingLanguage(name="typescript"),
@@ -74,8 +79,10 @@ class NeoVasili(Human):
       "AWS Solutions Architect Associate",
       "AWS DevOps Engineer Professional",
       "AWS Security Speciality",
+      "Microsoft Certified: Azure Fundamentals (AZ-900)",
+      "Microsoft Certified: Azure Developer Associate (AZ-204)",
     ]
-    self.tags = ["aws", "cloud", "serverless", "iac", "architecture"]
+    self.tags = ["aws", "cloud", "serverless", "iac", "architecture", "azure"]
 ```
 
 ## 🔉 Talks
